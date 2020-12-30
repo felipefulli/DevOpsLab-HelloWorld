@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $devopsllab-fullitechAPIKEY
+    secure: $devopsllabfullitechAPIKEY
   app: devopsllab-fullitech
