@@ -19,7 +19,7 @@ class Test(unittest.TestCase):
         result = self.app.get('/') 
 
         # verifica o retorno do conteudo da pagina
-        self.assertRegex(result.data.decode(), "xxxxxxxx")
+        self.assertRegex(result.data.decode(), "Erro no Deploy Resolvido")
 
 
 if __name__ == "__main__":
