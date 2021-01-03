@@ -20,7 +20,8 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: FULLITECHDEVOPSLAB
+    secure: olNT/WK0EYgZIMsqZ421HDLE8yhSAATP6v4Fc1c5E2R1v4DwREtkod/EBvW1NkXepf3xwMYb/Li35WUC3UFLN3l4FV+TlUATo7gizzSg43LurJrCWVW5uZxlEus5PfQtRjHORBOgl0bSoNbPrVqj0PyRXA4gWtav2eTE4rsMHQ1kT/WyuzJ3NpMpBM8xeUn8SNVcy48nb37y1n7QAjtnNLfUNikRzEZatVAqZmIALsHlAOZDs0bUhoFAiZXGnLIAu8TOZUGdqwnlgWK+LpdGGWDrHjWAI0epdrr7lJwr0yIndEC7Qr3TbZmJJDzfwzJqxQK0Ga2iBXVkanJduaRNVpOSZdgm+xOZv4a+rOYTIBbIikhWn3hmrJXyV9kyONj4XeSV9nICGWwSAK77YkT8xYTBeYTim4+eMJCLFhmPfolpamxdEv3LngMkDA4sJ4Wiywzb+TGR3L1PuRhnP6PS8fEC4nOlDiZmpOSmHuuAJKa+zlNLQaXBf07uu0v1oBmLswfsw/5HvwCTel3SwvOKoUvS5QiaR+0RM7F8devYWK+kEj8na7bSUYu/BY7EhLi80CBw/Thyxn/r22HBQxYOQJCXfXaWNlo/m+7MpvN9Uxe4CHKbKIRuJIupyn+q1l2CNhbE+jnH2MnshdvcLtK+X1LCHCFs8hDNSnJ/RKWHrK4=
+
   app: devopsllab-fullitech
   on:
     branch: master
