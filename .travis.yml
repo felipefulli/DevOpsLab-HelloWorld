@@ -22,3 +22,5 @@ deploy:
   api-key: 
     secure: $FULLITECHDEVOPSLAB
   app: devopsllab-fullitech
+  on:
+    branch: master
